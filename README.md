@@ -5,9 +5,7 @@ sudo pacman -Syu base-devel github-cli i3-wm i3status kitty neovim npm feh firef
 ```
 ## Installation
 ```
-mkdir ~/.dotfiles
-```
-```
+mkdir ~/.dotfiles;
 git clone https://github.com/Syed-Taha-0/.dotfiles.git ~/.dotfiles ;
 cd ~/.dotfiles
 ```
