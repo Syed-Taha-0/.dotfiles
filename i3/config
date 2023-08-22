@@ -196,7 +196,7 @@ default_floating_border pixel 3
 exec --no-startup-id feh --bg-fill ~/.dotfiles/wallpapers/space_catppuccin.png
 
 # exec --no-startup-id feh --bg-fill wallpapers/gruvbox_astro.jpg
-smart_borders on
+# smart_borders on 
 gaps inner 10
 
 # [[COLOR SETUP]]
