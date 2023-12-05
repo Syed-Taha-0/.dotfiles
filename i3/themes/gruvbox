@@ -9,10 +9,6 @@ set $gray #a89984
 set $darkgray #1d2021
 set $lightgray #bdae93
 
-bar {
-    position bottom
-    status_command i3status
-}
 
 # class                 top_border|top_backgr|text|split_indicator|window_border
 

@@ -23,6 +23,8 @@ set $surface0  #313244
 set $base      #1e1e2e
 set $mantle    #181825
 set $crust     #11111b
+
+# Window color settings
 # target                 top_bar_outline     top_bg    text   indicator  window_border
 client.focused           $rosewater   $rosewater $base  $pink $rosewater
 client.focused_inactive  $mauve    $base $text  $rosewater $base

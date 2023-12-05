@@ -473,6 +473,7 @@ cmp.setup {
     { name = 'luasnip' },
   },
 }
-vim.cmd.colorscheme 'catppuccin-mocha'
+-- this is THEME
+vim.cmd.colorscheme 'nordic'
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
