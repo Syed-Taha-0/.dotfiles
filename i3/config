@@ -194,7 +194,7 @@ bar {
 default_border pixel 3 
 default_floating_border pixel 3
 # Wallpaper Setup
-exec --no-startup-id feh --bg-fill ~/.dotfiles/wallpapers/space_catppuccin.png
+exec --no-startup-id feh --bg-fill ~/.dotfiles/wallpapers/stairs_wallpaper.jpg
 
 # exec --no-startup-id feh --bg-fill wallpapers/gruvbox_astro.jpg
 # smart_borders on 
