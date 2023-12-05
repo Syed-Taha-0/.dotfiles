@@ -48,8 +48,9 @@ floating_modifier $mod
 # or left-clicking anywhere into the window while holding the floating modifier.
 tiling_drag modifier titlebar
 
-# start a terminal
+# Shortcut Apps 
 bindsym $mod+Return exec kitty
+bindsym $mod+Shift+f exec thunar
 
 # kill focused window
 bindsym $mod+Shift+q kill

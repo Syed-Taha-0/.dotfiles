@@ -48,7 +48,7 @@ function apropol
 alias hello="echo 'Hi there!'"
 alias vim='nvim'
 alias nvconf='cd ~/.config/nvim/;vim init.lua;'
-alias confi='cd ~/.config/;vim .;'
+alias confi='cd ~/.dotfiles;vim .;'
 # Startup-commands
 pfetch;
 # cowsay "Welcome to the BASH shell!"; echo -e "\n"
