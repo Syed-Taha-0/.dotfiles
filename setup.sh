@@ -14,3 +14,4 @@ ln -s ~/.dotfiles/kitty ~/.config/kitty;
 ln -s ~/.dotfiles/bash/.bashrc ~/.bashrc;
 ln -s ~/.dotfiles/rofi ~/.config/rofi;
 ln -s ~/.dotfiles/i3status ~/.config/i3status;
+sudo ln -s ~/.dotfiles/ly/config.ini /etc/ly/config.ini;
