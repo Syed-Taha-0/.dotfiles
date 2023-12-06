@@ -3,8 +3,9 @@
 rm -rf ~/.config/nvim;
 rm -rf ~/.local/share/nvim;
 rm -rf ~/.config/i3;
-rm -rf ~/.config/kitty;
 rm -rf ~/.config/i3status;
+rm -rf ~/.config/kitty;
+rm -rf ~/.config/rofi;
 rm ~/.bashrc;
 # File (Symbolic) linking
 ln -s ~/.dotfiles/nvim ~/.config/nvim;

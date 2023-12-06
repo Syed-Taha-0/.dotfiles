@@ -188,8 +188,8 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # STATUS BAR THAT IS USED
-bar {
-        status_command i3status
+bar{
+	status_command i3status
 }
 # CUSTOM STUFF SETUP by ME!!  -- Taha 
 default_border pixel 3 
