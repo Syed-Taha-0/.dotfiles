@@ -3,7 +3,7 @@
 ```
 sudo pacman -Syu base-devel github-cli networkmanager nm-connection-editor network-manager-applet i3-wm i3status kitty neovim npm feh firefox man-db man-pages ly  rofi ripgrep thunar tree valgrind
 ```
-Install '''pfetch''' from the AUR.
+Install ```pfetch``` from the AUR.
 
 ## Installation
 ```
@@ -17,5 +17,5 @@ Do a backup if you need them):
 ```
 ./setup.sh
 ```
-Setup the "Ly" login manager by enabling '''ly.service'''
+Setup the "Ly" login manager by enabling ```ly.service```
 Have fun!(hopefully)
