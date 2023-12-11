@@ -12,6 +12,7 @@ general {
         color_good = "#81a1c1" # Light green
         color_degraded = "#fafe7c" # Light yellow
         color_bad = "#ff7770" # Light red
+		# color_background = "#ffffff"
 }
 
 # order += "ipv6"
@@ -77,5 +78,5 @@ memory {
 }
 
 tztime local {
-        format = "   %a %d-%m-%Y    %H:%M  "
+        format = "    %a %d-%m-%Y    %H:%M  "
 }

@@ -43,7 +43,7 @@ window {
     transparency: "screenshot";
     padding: 10px;
     border:  0px;
-    border-radius: 6px;
+    border-radius: 10px;
 
     background-color: @transparent;
     spacing: 0;
@@ -103,7 +103,7 @@ element {
 
 element selected.normal {
 	background-color: @nord13;
-	text-color: #2e3440;
+	text-color: @nord1;
 }
 
 element-text, element-icon {
