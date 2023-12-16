@@ -15,7 +15,7 @@ cd ~/.dotfiles
 Run the setup file to configure everything properly (Warning! This deletes all present configs of the respective softwares.
 Do a backup if you need them):
 ```
-./setup.sh
+./scripts/setup.sh
 ```
 Setup the "Ly" login manager by enabling ```ly.service```
 Have fun!(hopefully)
